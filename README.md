@@ -42,15 +42,16 @@ NewsAppTask is a mobile application designed to provide users with access to new
 
 5. **Push Notifications:** The app utilizes Firebase Cloud Messaging to send push notifications to users about the latest news updates and important announcements.
 
-## Screens
+markdown
+Copy code
+# Screens
 
-![Screen 1](https://github.com/harsh23-06/NewsAppTask/blob/master/app/src/main/res/drawable/screen%201.jpeg)
-
-![Screen 2](https://github.com/harsh23-06/NewsAppTask/blob/master/app/src/main/res/drawable/screen%202.jpeg)
-
-![Screen 3](https://github.com/harsh23-06/NewsAppTask/blob/master/app/src/main/res/drawable/screen%203.jpeg)
-
-![Screen 4](https://github.com/harsh23-06/NewsAppTask/blob/master/app/src/main/res/drawable/screen%204.jpeg)
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/harsh23-06/NewsAppTask/blob/master/app/src/main/res/drawable/screen%201.jpeg" width="45%" style="margin-right: 5%;" />
+    <img src="https://github.com/harsh23-06/NewsAppTask/blob/master/app/src/main/res/drawable/screen%202.jpeg" width="45%" style="margin-left: 5%;" />
+    <img src="https://github.com/harsh23-06/NewsAppTask/blob/master/app/src/main/res/drawable/screen%203.jpeg" width="45%" style="margin-right: 5%; margin-top: 20px;" />
+    <img src="https://github.com/harsh23-06/NewsAppTask/blob/master/app/src/main/res/drawable/screen%204.jpeg" width="45%" style="margin-left: 5%; margin-top: 20px;" />
+</div>
 
 ## Conclusion
 
