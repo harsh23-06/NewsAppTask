@@ -42,6 +42,16 @@ NewsAppTask is a mobile application designed to provide users with access to new
 
 5. **Push Notifications:** The app utilizes Firebase Cloud Messaging to send push notifications to users about the latest news updates and important announcements.
 
+## Screens
+
+![Screen 1](https://github.com/harsh23-06/NewsAppTask/blob/master/app/src/main/res/drawable/screen%201.jpeg)
+
+![Screen 2](https://github.com/harsh23-06/NewsAppTask/blob/master/app/src/main/res/drawable/screen%202.jpeg)
+
+![Screen 3](https://github.com/harsh23-06/NewsAppTask/blob/master/app/src/main/res/drawable/screen%203.jpeg)
+
+![Screen 4](https://github.com/harsh23-06/NewsAppTask/blob/master/app/src/main/res/drawable/screen%204.jpeg)
+
 ## Conclusion
 
 NewsAppTask offers users a convenient and intuitive way to stay informed about current events and trending topics. With its user-friendly interface and seamless navigation, the app provides an engaging news reading experience for users on the go. Powered by modern technologies and frameworks, NewsAppTask is a reliable and efficient solution for accessing news content on mobile devices.
