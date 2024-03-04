@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NewsAppTask" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/standard_grey</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here -->
+        <!-- For example, you can customize colors, fonts, etc. -->
+
+        <!-- Add any other customizations -->
+    </style>
+    <style name="Theme.NewsAppTask" parent="Base.Theme.NewsAppTask">
+        <item name="colorPrimary">@color/standard_grey</item>
+
+    </style>
+</resources>

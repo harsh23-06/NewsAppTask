@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95248535137",
+    "project_id": "newsapptask-bac1a",
+    "storage_bucket": "newsapptask-bac1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95248535137:android:f5a9dcdfa071a8df83e420",
+        "android_client_info": {
+          "package_name": "com.example.newsapptask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYmE_YdeHOsRPzHKY2VtRRYolxW9-iyB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

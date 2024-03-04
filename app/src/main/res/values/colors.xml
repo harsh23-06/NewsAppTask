@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_700">#0D1117</color>
+    <color name="bottom_nav_item_color">#368f36</color>
+    <color name="off_white">#F5FAFE</color>
+    <color name="dark_grey">#5d665f</color>
+    <color name="dark_gray">#808080</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="orchid">#2C3638</color>
+    <color name="bone">#DDD7C9</color>
+    <color name="lait">#A27B5C</color>
+    <color name="standard_grey">#3F4F4F</color>
+</resources>
